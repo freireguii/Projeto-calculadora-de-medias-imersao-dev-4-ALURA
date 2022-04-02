@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Righteous&display=swap');
+
+body {
+  font-family: 'Indie Flower', cursive;
+  min-height: 400px;
+  background: rgb(55,59,66);
+  background: linear-gradient(83deg, rgba(55,59,66,1) 18%, rgba(9,23,74,1) 47%, rgba(21,20,162,1) 100%);
+  background-size: auto;
+  }
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+  font-size: 25px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+  font-size: 18px;
+}
+
+.page-logo {
+  width: 250px;
+}
+
+.alura-logo {
+  width: 65px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.caixa {
+  width: 50px;
+  margin-top: 15px
+}
+
+.result {
+  font-size: 25px;
+  color:#ffffff
+}
